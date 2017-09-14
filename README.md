@@ -1,6 +1,6 @@
 ## Anomaly-Detection
 
-Anomaly Detection Challenge is a practical [course] (https://www.sec.in.tum.de/anomaly-detection-challenges/) organized by TUM Security Chair. A competition on discovering the anomalies is conducted on kaggle to test the performance of several machine learning algorithms.
+Anomaly Detection Challenge is a practical [course](https://www.sec.in.tum.de/anomaly-detection-challenges/) organized by TUM Security Chair. A competition on discovering the anomalies is conducted on kaggle to test the performance of several machine learning algorithms.
 The challenges and their dataset is as follows:
 
 * Challenge 1 - [Image anomaly detection](https://inclass.kaggle.com/c/adcg-2016-image-anomaly-detection)
